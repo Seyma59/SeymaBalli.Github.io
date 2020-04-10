@@ -1,5 +1,6 @@
 <!-- CSS -->
 
- <header>
- 	h1{color:red;}
-  </header>
+body > header > h1{
+	color: red;
+ }
+

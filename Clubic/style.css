@@ -1,16 +1,13 @@
 <!-- CSS -->
 
-<div class="columns">
-  <div class="column">
-  	First column
-  </div>
-  <div class="column">
-    Second column
-  </div>
-  <div class="column">
-    Third column
-  </div>
-  <div class="column">
-    Fourth column
-  </div>
-</div>
+div#colonne1 {
+	float: left;
+	width: 160px;
+	background: lightblue;
+}
+
+div#colonne2 {
+	float: right;
+	width: 300px;
+	background: burlywood;
+}

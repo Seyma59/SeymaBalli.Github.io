@@ -1,33 +1,6 @@
 /*CSS*/
 
-/*html --> ça s'applique sur tout le html*/
-
-html {
-	/*pas de serif du tout*/
-	font-family: sans;
+h1{
+	color: red;
 }
-
-img {
-	:/*angle au coin de toutes les images*/;
-	border radius : 5px;
-}
-
-span {
-	font-size:0.9em; /*0.9em=90%de la taille qu'on utilise normalemement*/
-		/*pour dissocier 2 couleurs de span, on rajoute une classe
-	dans le html. ex : <span class = "heure"> et span class "=catégorie"*/;
-}
-
-
-article footer span:first-child{
-	color : #559;
-}
-
-article footer span : 
-
-/* peut écrire first child pour le 1er enfant, puis écrit nth-child (xxx) = le ènième enfant*/
-article: nth-child (3){
-	background : red;
-}
-
 

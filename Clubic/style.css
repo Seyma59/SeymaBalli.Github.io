@@ -4,3 +4,7 @@ h1{
 	color: red;
 }
 
+.column1{
+	align-content: flex-start;
+	width: 300px
+}

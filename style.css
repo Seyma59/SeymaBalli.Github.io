@@ -1,6 +1,55 @@
 /*CSS*/
 
 h1{
-  color: red;
+	color: #45B39D ;
+	text-align: center;
+
 }
 
+
+.column1{
+	color : grey;
+	align-content: flex-start;
+	width: 300px; 
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.column2{
+	color : grey;
+	align-content: flex-start;
+	width: 300px; 
+	border : 3px solid black;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+
+.column3{
+	color : grey;
+	align-content: flex-start;
+	width: 300px; 
+	border : 3px solid black;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.column4{
+	color : grey;
+	align-content: flex-start;
+	width: 300px; 
+	border : 3px solid black;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+
+img {
+    border-radius : 5px;
+    float: left;
+    margin-left: 10px;
+}
